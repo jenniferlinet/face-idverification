@@ -1,0 +1,9 @@
+Flask==2.3.3
+flask-socketio==5.3.4
+eventlet==0.33.3
+opencv-python==4.8.1.78
+numpy==1.24.4
+Pillow==9.5.0
+mediapipe==0.10.9
+deepface==0.0.93
+pytesseract==0.3.10
